@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d822e116.css",
+    "main.js": "/static/js/main.7c123e6d.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/whatWeDo.jpg": "/static/media/whatWeDo.79bd0a3063e6dc1b23b9.jpg",
+    "static/media/mobApp.png": "/static/media/mobApp.a7fe58b0327d0537aacf.png",
+    "static/media/animations.png": "/static/media/animations.250a8ea2fe4f8d1d37d5.png",
+    "static/media/home.png": "/static/media/home.7a338326ce018ef66dd6.png",
+    "static/media/design thinking.png": "/static/media/design thinking.c610bcc733497bcf7923.png",
+    "static/media/webde.png": "/static/media/webde.03ed1f851823961a7159.png",
+    "index.html": "/index.html",
+    "main.d822e116.css.map": "/static/css/main.d822e116.css.map",
+    "main.7c123e6d.js.map": "/static/js/main.7c123e6d.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d822e116.css",
+    "static/js/main.7c123e6d.js"
+  ]
+}
